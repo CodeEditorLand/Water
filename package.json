@@ -38,7 +38,7 @@
 		"@typescript-eslint/eslint-plugin": "8.37.0",
 		"@typescript-eslint/parser": "8.37.0",
 		"monaco-editor": "0.52.2",
-		"monaco-themes": "0.4.5",
+		"monaco-themes": "0.4.6",
 		"solid-devtools": "0.34.3",
 		"solid-js": "1.9.7",
 		"store": "2.0.12",
